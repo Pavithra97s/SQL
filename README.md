@@ -1,18 +1,5 @@
 # SQL
 
-**Codebasics Resume Project Challenge – Data Analytics Exploration**
-
-*Project Overview:*
-
-The Codebasics Resume Project Challenge, organized by Codebasics, serves as a global platform engaging participants from diverse backgrounds. This challenge not only hones participants' skills but also offers them recognition from the esteemed Codebasics team and a vast LinkedIn audience worldwide.
-
-**Project Requirements:**
-1. **Enrollment:** Participants need to register their projects on the official Codebasics website, demonstrating their commitment to the challenge.
-2. **Execution:** Utilizing tools of their choice, participants are tasked with completing the project, emphasizing creativity and analytical prowess.
-3. **Showcasing Results:** The final step involves presenting the completed work on LinkedIn, reaching a broader professional network with an insightful presentation.
-
-**Challenge Highlights:**
-
 *About the Project:*
 
 The challenge revolved around analyzing data from an intriguing scenario: CodeX, a pioneering German beverage company, recently introduced its energy drink in ten Indian cities. The company, keen on understanding consumer behavior, conducted an extensive survey involving 10,000 respondents. The survey delved into various aspects of consumer habits, perceptions about existing energy drinks, pricing, packaging preferences, and more. CodeX's Marketing Team entrusted data analysts to transform this wealth of survey data into actionable insights that could drive strategic decisions.
