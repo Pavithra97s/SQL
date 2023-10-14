@@ -1,4 +1,4 @@
-# SQL
+# SQL - Project
 
 *About the Project:*
 
